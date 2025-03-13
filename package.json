@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node netlify/functions/api.js"
   },
   "dependencies": {
     "@netlify/functions": "^3.0.1",
