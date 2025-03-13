@@ -4,8 +4,9 @@
 
 * *Date Created*: 13 MAR 2025
 * *Last Modification Date*: 13 MAR 2025
-* *GitHub URL*: [<http://example.com/>](https://github.com/Baja-Bla5t/CSCI3172-Lab6.git)
-* *Netlify URL*:  
+* *GitHub URL*: (https://github.com/Baja-Bla5t/CSCI3172-Lab6.git)
+* *Netlify URL*: (https://lab6-portfolio.netlify.app/)
+* *GitLab URL*: (https://github.com/Baja-Bla5t/CSCI3172-Lab6)
 
 
 ## Authors
