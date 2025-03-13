@@ -1,0 +1,19 @@
+li{
+  text-decoration: none;
+  list-style: none;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+li a:hover{background-color: grey;}
+
+.navbar-nav .nav-item .nav-link {
+  font-family: 'Arial', 'Times New Roman', Times, serif; /* Change to your desired font family */
+  font-size: 1.2rem; /* Customize font size */
+  font-weight: bold; /* Optional: Set font weight */
+  color: whitesmoke; /* Customize font color */
+}
